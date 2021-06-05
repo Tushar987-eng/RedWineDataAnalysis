@@ -1,7 +1,6 @@
 Red Wine Analysis
 ================
-Sagarnil Das
-June 21, 2017
+
 
 ``` r
 #Load all the required libraries
